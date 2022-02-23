@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100&family=Oswald:wght@300;400&family=Playfair+Display&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100&family=Hind+Siliguri:wght@300&family=Libre+Baskerville&family=Oswald:wght@300;400&family=Playfair+Display&family=Roboto:wght@100;300&family=Tinos:wght@400;700&family=Titillium+Web:wght@300&display=swap');
+
+body{
+   
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.navFont{
+    font-size: 20px;
+   
+   color: black !important;  
+}
+.logo{
+    width:35px;
+    height: 35px;
+}
+.about{
+    border: 2px solid black;
+    font-weight: bold;
+    font-size: 30px;
+   background-color: chartreuse;
+
+}
